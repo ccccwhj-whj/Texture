@@ -38,6 +38,8 @@
 
 #import <AsyncDisplayKit/ASTableView.h>
 #import <AsyncDisplayKit/ASTableNode.h>
+#import <AsyncDisplayKit/ASCollectionLayoutDelegate.h>
+#import <AsyncDisplayKit/ASCollectionLayout.h>
 #import <AsyncDisplayKit/ASCollectionView.h>
 #import <AsyncDisplayKit/ASCollectionNode.h>
 #import <AsyncDisplayKit/ASCollectionNode+Beta.h>
