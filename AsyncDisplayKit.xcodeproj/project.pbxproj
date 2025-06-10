@@ -499,7 +499,7 @@
 		E58E9E441E941D74004CFC59 /* ASCollectionLayoutContext.h in Headers */ = {isa = PBXBuildFile; fileRef = E58E9E3F1E941D74004CFC59 /* ASCollectionLayoutContext.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E58E9E451E941D74004CFC59 /* ASCollectionLayoutContext.mm in Sources */ = {isa = PBXBuildFile; fileRef = E58E9E401E941D74004CFC59 /* ASCollectionLayoutContext.mm */; };
 		E58E9E461E941D74004CFC59 /* ASCollectionLayoutDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E58E9E411E941D74004CFC59 /* ASCollectionLayoutDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E58E9E491E941DA5004CFC59 /* ASCollectionLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = E58E9E471E941DA5004CFC59 /* ASCollectionLayout.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		E58E9E491E941DA5004CFC59 /* ASCollectionLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = E58E9E471E941DA5004CFC59 /* ASCollectionLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E58E9E4A1E941DA5004CFC59 /* ASCollectionLayout.mm in Sources */ = {isa = PBXBuildFile; fileRef = E58E9E481E941DA5004CFC59 /* ASCollectionLayout.mm */; };
 		E5B077FF1E69F4EB00C24B5B /* ASElementMap.h in Headers */ = {isa = PBXBuildFile; fileRef = E5B077FD1E69F4EB00C24B5B /* ASElementMap.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E5B078001E69F4EB00C24B5B /* ASElementMap.mm in Sources */ = {isa = PBXBuildFile; fileRef = E5B077FE1E69F4EB00C24B5B /* ASElementMap.mm */; };
@@ -2029,6 +2029,7 @@
 				4080D66C2350384400CDC199 /* ASPINRemoteImageDownloader.h in Headers */,
 				E5667E8C1F33871300FA6FC0 /* _ASCollectionGalleryLayoutInfo.h in Headers */,
 				E5775AFC1F13CE9F00CAC9BC /* _ASCollectionGalleryLayoutItem.h in Headers */,
+				E58E9E491E941DA5004CFC59 /* ASCollectionLayout.h in Headers */,
 				E5855DF01EBB4D83003639AE /* ASCollectionLayoutDefines.h in Headers */,
 				E5B5B9D11E9BAD9800A6B726 /* ASCollectionLayoutContext+Private.h in Headers */,
 				9C8898BD1C738BB800D6B02E /* ASTextKitFontSizeAdjuster.h in Headers */,
@@ -2044,7 +2045,6 @@
 				B35062521B010EFD0018CF92 /* ASDisplayNodeInternal.h in Headers */,
 				AC7A2C181BDE11DF0093FE1A /* ASTableViewInternal.h in Headers */,
 				B35062531B010EFD0018CF92 /* ASImageNode+CGExtras.h in Headers */,
-				E58E9E491E941DA5004CFC59 /* ASCollectionLayout.h in Headers */,
 				254C6B7F1BF94DF4003EC431 /* ASTextKitTruncating.h in Headers */,
 				9D9AA56B21E254B800172C09 /* ASDisplayNode+Yoga.h in Headers */,
 				CC58AA4B1E398E1D002C8CB4 /* ASBlockTypes.h in Headers */,
